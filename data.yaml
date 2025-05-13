@@ -1,0 +1,24 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Apple
+  1: Banana
+  2: Carrot
+  3: Dragon Fruit
+  4: Durian
+  5: Grape
+  6: Grape Fruit
+  7: Jackfruit
+  8: Kiwi
+  9: Lemon
+  10: Lychee
+  11: Mango
+  12: Orange
+  13: Pear
+  14: Pineapple
+  15: Pomegranate
+  16: Strawberry
+  17: Tomato
+  18: Watermelon
